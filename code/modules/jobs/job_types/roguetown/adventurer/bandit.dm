@@ -7,7 +7,7 @@
 	spawn_positions = 0
 	antag_job = TRUE
 	allowed_races = RACES_ALL_KINDS
-	allowed_patrons = list(ALL_INHUMEN_PATRONS, /datum/patron/divine/xylix, /datum/patron/divine/malum, /datum/patron/divine/noc)
+	allowed_patrons = list(datum/patron/inhumen, /datum/patron/divine/xylix, /datum/patron/divine/malum, /datum/patron/divine/noc)
 	tutorial = "Long ago you did a crime worthy of your bounty being hung on the wall outside of the local inn. You now live with your fellow freemen in the bog, and generally get up to no good."
 
 	outfit = null
